@@ -38,7 +38,6 @@
             margin-bottom: 10px;
         }
         
-        
     </style>
 </head>
 <body>
@@ -59,7 +58,7 @@
                     <td>$i</td>
                     <td>=</td>
                     <td>$result</td>
-                    <td>$result</td>
+
                 </tr>";
             }
             ?>
