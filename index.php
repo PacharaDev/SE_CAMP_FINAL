@@ -58,6 +58,7 @@
                     <td>$i</td>
                     <td>=</td>
                     <td>$result</td>
+                    
 
                 </tr>";
             }
